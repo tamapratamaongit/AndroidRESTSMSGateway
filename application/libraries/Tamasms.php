@@ -8,10 +8,8 @@
 class Tamasms
 {
 	protected $ip;
-	protected $CI;
 	function __construct()
 	{
-		$this->CI = &get_instance();
 
 	}
 
