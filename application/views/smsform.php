@@ -54,7 +54,7 @@
               <input type="text" class="form-control" id="to" placeholder="to" name="to">
             </div>
              <div class="form-group">
-              <label for="message">Nomor Tujuan</label>
+              <label for="message">Pesan</label>
               <textarea name="message" class="form-control" id="message" placeholder="message">
                 
               </textarea>
