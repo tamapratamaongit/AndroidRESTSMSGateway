@@ -4,7 +4,7 @@
  * Author : Kusmanto Pratama (Tama)
  */
 
-//library CURL is activated by config/autoload.php
+
 class Tamasms
 {
 	protected $ip;
