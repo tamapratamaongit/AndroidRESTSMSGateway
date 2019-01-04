@@ -7,4 +7,5 @@ If u want to run this example .
 just download codeigniter and copy (Controller, Model, View, and Libraries) folders to the application folder, and copy assets folder to your root projects and open controller SMS on your web browser.
 
 this video how to use the lib 
-https://www.youtube.com/watch?v=asLngugOPqI
+https://www.youtube.c*m/watch?v=asLngugOPqI (Change the (*) with o in URL)
+
